@@ -1,0 +1,6 @@
+public class welcome{
+
+public static main(Strings args[]){
+System.out.println("Welcome");
+  }
+}
